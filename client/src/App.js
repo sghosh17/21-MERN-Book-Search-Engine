@@ -41,14 +41,14 @@ function App() {
       <Router>
         <>
           <Navbar />
-          <Routes>
-            <Route path="/" component={SearchBooks} />
-            <Route path="/saved" component={SavedBooks} />
+          <Switch>
+            <Route exact path="/" component={SearchBooks} />
+            <Route exact path="/saved" component={SavedBooks} />
             <Route
               path="*"
               element={<h1 className="display-2">Wrong page!</h1>}
             />
-          </Routes>
+          </Switch>
         </>
       </Router>
     </ApolloProvider>
