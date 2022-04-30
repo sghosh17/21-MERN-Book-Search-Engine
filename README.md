@@ -31,7 +31,7 @@ The project was created using MERN stack and uses the following tools :
 
 ## Usage
 
-To start the process, go to the deployed site [here](https://sghosh17.github.io/20-react-portfolio/)
+To start the process, go to the deployed site [here](https://sampreeti-21-mern-book-search.herokuapp.com/)
 
 ## License
 
@@ -44,7 +44,7 @@ Sampreeti Das
 
 ## Test
 
-To run the test, please go to the deployed site [here](https://sghosh17.github.io/20-react-portfolio/)
+To run the test, please go to the deployed site [here](https://sampreeti-21-mern-book-search.herokuapp.com/)
 
 ## Questions
 
